@@ -7,10 +7,10 @@ int main()
     int divisor, dividend, quotient, remainder;
 
     cout<< "Enter dividend: ";
-    cin> dividend;
+    cin>> dividend;
 
     cout<< "Enter divisor: ";
-    cin> divisor;
+    cin>>divisor;
 
     quotient = dividend / divisor;
     remainder = dividend % divisor;
