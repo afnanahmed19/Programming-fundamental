@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/Cpp_lang/Game code with c++",
-      "program": "/workspaces/Cpp_lang/Game code with c++/build/Debug/outDebug",
+      "cwd": "/workspaces/Cpp_lang/Practice problems/blackbox.cpp",
+      "program": "/workspaces/Cpp_lang/Practice problems/blackbox.cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
