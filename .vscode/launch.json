@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/Programming-fundamental/03.FirstSteps/3.2FirstCppProgram",
-      "program": "/workspaces/Programming-fundamental/03.FirstSteps/3.2FirstCppProgram/build/Debug/outDebug",
+      "cwd": "/workspaces/Programming-fundamental/11.Loops/11.4CommaOperator",
+      "program": "/workspaces/Programming-fundamental/11.Loops/11.4CommaOperator/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
