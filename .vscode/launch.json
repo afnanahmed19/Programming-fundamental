@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/Programming-fundamental/03.FirstSteps/3.5StatementsAndFunctions",
-      "program": "/workspaces/Programming-fundamental/03.FirstSteps/3.5StatementsAndFunctions/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
