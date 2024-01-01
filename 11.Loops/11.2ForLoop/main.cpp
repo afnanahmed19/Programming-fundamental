@@ -74,7 +74,7 @@ int main(){
 
    //Don't hard code values : BAD!
 
-    const size_t COUNT{100};
+    const size_t COUNT{10000000};
 
     for(size_t i{0} ; i < COUNT ; ++i){
         std::cout << i << " : I love C++" << std::endl;
